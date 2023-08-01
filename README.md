@@ -1,4 +1,5 @@
 # js_basico
 Aula
-https://projectduetec.github.io/js_basico/aula1.html
+https://projectduetec.github.io/js_basico/declaração
+
 js_basico
