@@ -6,5 +6,5 @@ aula 2
 https://projectduetec.github.io/js_basico/funcoes/funcoes.html
 ----------------------------------------------------------------
 imc01
-https://projectduetec.github.io/js_basico/imc01/imc01.html
+https://projectduetec.github.io/js_basico/imc01/imc.html
 ----------------------------------------------------------------
