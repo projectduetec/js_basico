@@ -5,6 +5,6 @@ https://projectduetec.github.io/js_basico/declaração/aula1.html
 aula 2
 https://projectduetec.github.io/js_basico/funcoes/funcoes.html
 ----------------------------------------------------------------
-IMC01
+imc01
 https://projectduetec.github.io/js_basico/imc01/imc01.html
 ----------------------------------------------------------------
