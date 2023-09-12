@@ -11,3 +11,6 @@ https://projectduetec.github.io/js_basico/imc01/imc.html
 imc02
 https://projectduetec.github.io/js_basico/imc02/imc02.html
 ----------------------------------------------------------------
+https://projectduetec.github.io/js_basico/tabuada/tabuada.html
+----------------------------------------------------------------
+
