@@ -19,3 +19,7 @@ tabuada
 ----------------------------------------------------------------
 https://projectduetec.github.io/js_basico/tabuada/tabuada.html
 ----------------------------------------------------------------
+Objetos orientados
+----------------------------------------------------------------
+https://projectduetec.github.io/js_basico/Objetos/Objetos.html
+----------------------------------------------------------------
