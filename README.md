@@ -23,9 +23,6 @@ Objetos orientados
 ----------------------------------------------------------------
 https://projectduetec.github.io/js_basico/Objetos/Objetos.html
 ----------------------------------------------------------------
-Objetos orientados com laço
-----------------------------------------------------------------
-https://projectduetec.github.io/js_basico/com-laço/com-laço.html
-----------------------------------------------------------------
+
 
 
